@@ -5,7 +5,7 @@
 
 - 프로젝트 진행 기간 : 2022.02 ~ 2023.03
 - 프로젝트 합류 : 2022.04 ~ 2023.03
-- 팀구성 : 기획 1, 디자이너 1, FE 3, BE 3
+- 팀구성 : 기획 1, 디자이너 1, FE 3, BE 5
 - 기술 스택 (프론트엔드) : Next.js, Typescript, Recoil , Emotion, styled-component
 
 - 프로젝트 전체 github: https://github.com/teamesa
